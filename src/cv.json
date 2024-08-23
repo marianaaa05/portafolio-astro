@@ -1,0 +1,221 @@
+{
+  "basics": {
+    "name": "Carolina Luna Bastidas",
+    "label": "Administrative assistant",
+    "image": "https://www.udenar.edu.co/recursos/wp-content/uploads/2024/03/Carolina_Luna.jpg",
+    "email": "carolinaluna.tec@gmail.com",
+    "phone": "+57 3217185784",
+    "url": "www.linkedin.com/in/carolina-luna-2222a6285",
+    "summary": "Asistente administrativa, con conocimientos en procesos de autoevaluación para renovación de registro calificado, acreditación de alta calidad, elaboración de planes de mejoramiento, indicadores, atención de auditorias internas y externas.",
+    "location": {
+      "address": "Nariño city",
+      "postalCode": "58001",
+      "city": "San Juan de Pasto",
+      "countryCode": "ES",
+      "region": " Colombia"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "carolinaluna24",
+        "url": "https://github.com/carolinaluna24"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Universidad de Nariño",
+      "position": "Asistente Vicerrectoría Administrativa",
+      "url": "https://www.udenar.edu.co/dependencias/vicerrectoria-academica/talento-humano/",
+      "startDate": "2012-08-01",
+      "endDate": "2014-08-01",
+      "summary": "Recepción, clasificación y control de correspondencia y solicitudes relacionadas con el despacho, redacción de comunicaciones, actualización de registros de carácter administrativo, atención al público, entre otras.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Departamento de Química - UDENAR",
+      "position": "Auxiliar administrativo Departamento de Química",
+      "url": "https://quimica.udenar.edu.co/",
+      "startDate": "2014-08-01",
+      "endDate": "2023-10-03",
+      "summary": "Recepción, clasificación y control de correspondencia,redacción de actos administrativos, preparación de auditorias, apoyo procesos de autoevaluación, inducciones estudiantes nuevo ingreso, actualización página web, cargue de información a plataformas, atención al público",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Universidad de Nariño",
+      "position": "Asistente Vicerrectoría Académica",
+      "startDate": "2023-10-03",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "SCOUTS.ORG",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2020-02-01",
+      "endDate": "2021-01-30",
+      "summary": "Jefe de Grupo 12  Don Bosco",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de Nariño",
+      "url": "https://www.uo/index.html",
+      "area": "Tecnóloga en Computación",
+      "studyType": "Technique",
+      "startDate": "2007-08-01",
+      "endDate": "2013-07-01",
+      "score": "",
+      "courses": [
+        "Formación de auditores internos en SGC NTC ISO 9001:2015. ICONTEC 40 Horas.",
+        "Indicadores de gestión en el SGC ICONTEC 16 horas.",
+        "Control de producto y servicio no conforme ICONTEC 8 horas."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "httpcom",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Auditora interna",
+      "level": "Master",
+      "keywords": [
+        "calidad",
+        "auditoria"
+      ]
+    },
+    {
+      "name": "Sistemas de gestión de calidad",
+      "level": "Master",
+      "keywords": [
+        "SIGC"
+      ]
+    } 
+    
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Traveling",
+      "keywords": [
+        "Beach",
+        "Forest",
+        "Archeology"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jesús Cabrera",
+      "reference": "Director Departamento de Química"
+    }
+  ],
+  "projects": [
+    {
+      "name": "codes",
+      "isActive": true,
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "url": "https:odes"
+    },
+    {
+      "name": "programacion",
+      "isActive": true,
+      "description": "Retos",
+      "highlights": [
+        "millón de visitas",
+        "Multidioma",
+        "JavaScript & TypeScript"
+      ],
+      "url": "demos en linea"
+    },
+    {
+      "name": "proyetosdesarrollo",
+      "isActive": true,
+      "description": "Juego interactivo de programación con retos y secretos",
+      "highlights": [
+        "+2000 usuarios activos",
+        "Retos para cualquier lenguaje"
+      ],
+      "url": "demos en lineas://proyetosdesarrollo.dev"
+    },
+    {
+      "name": "link",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "demos en lineas://codi.link",
+      "github": "demos en lineas:/nk"
+    },
+    {
+      "name": "Pruebas Técnicas",
+      "isActive": true,
+      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "highlights": [
+        "100% gratuito",
+        "+500"
+      ],
+      "url": "demos en lineas://pruebastecnicas.com",
+      "github": "www."
+    },
+    {
+      "name": "ponencia",
+      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "highlights": [
+        "+15k tickets repartidos",
+        "+50k espectadores en directo"
+      ],
+      "url": "demos en lineas://paginaweb.com"
+    }
+  ]
+}
