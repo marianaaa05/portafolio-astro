@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Carolina Luna Bastidas",
-    "label": "Administrative assistant",
-    "image": "https://www.udenar.edu.co/recursos/wp-content/uploads/2024/03/Carolina_Luna.jpg",
-    "email": "carolinaluna.tec@gmail.com",
-    "phone": "+57 3217185784",
+    "name": "Mariana Arredondo Ortiz",
+    "label": "Ingeniera Informática",
+    "image": "https://i.pinimg.com/564x/b9/93/de/b993def880abdf50ca8ad3184edd5347.jpg",
+    "email": "nanaarredondo220@gmail.com",
+    "phone": "+57 3234566707",
     "url": "www.linkedin.com/in/carolina-luna-2222a6285",
-    "summary": "Asistente administrativa, con conocimientos en procesos de autoevaluación para renovación de registro calificado, acreditación de alta calidad, elaboración de planes de mejoramiento, indicadores, atención de auditorias internas y externas.",
+    "summary": "Ingeniera informática, he trabajado con herramientas como: React, Next.js, JavaScript, Tailwind CSS, Astro, Vite, Node.js, Github, Html, CSS y Vercel.",
     "location": {
       "address": "Nariño city",
       "postalCode": "58001",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "GitHub",
-        "username": "carolinaluna24",
-        "url": "https://github.com/carolinaluna24"
+        "username": "marianaaa05",
+        "url": "https://github.com/marianaaa05"
       }
     ]
   },
@@ -71,17 +71,15 @@
   ],
   "education": [
     {
-      "institution": "Universidad de Nariño",
+      "institution": "Corporación Universitaria Autónoma de Nariño",
       "url": "https://www.uo/index.html",
-      "area": "Tecnóloga en Computación",
-      "studyType": "Technique",
-      "startDate": "2007-08-01",
-      "endDate": "2013-07-01",
+      "area": "Ingeniería Informática",
+      "studyType": "Posgrado",
+      "startDate": "2020-01-01",
+      "endDate": "2024-18-10",
       "score": "",
       "courses": [
-        "Formación de auditores internos en SGC NTC ISO 9001:2015. ICONTEC 40 Horas.",
-        "Indicadores de gestión en el SGC ICONTEC 16 horas.",
-        "Control de producto y servicio no conforme ICONTEC 8 horas."
+        ""
       ]
     }
   ],
