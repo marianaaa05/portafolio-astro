@@ -18,39 +18,51 @@
       {
         "network": "GitHub",
         "username": "marianaaa05",
-        "url": "https://github.com/marianaaa05"
+        "url": "https://github.com/marianaaa05/repositorioViteMariana"
       }
     ]
   },
   "work": [
     {
-      "name": "Universidad de Nariño",
-      "position": "Asistente Vicerrectoría Administrativa",
-      "url": "https://www.udenar.edu.co/dependencias/vicerrectoria-academica/talento-humano/",
-      "startDate": "2012-08-01",
-      "endDate": "2014-08-01",
-      "summary": "Recepción, clasificación y control de correspondencia y solicitudes relacionadas con el despacho, redacción de comunicaciones, actualización de registros de carácter administrativo, atención al público, entre otras.",
+      "name": "React",
+      "position": "Desarrollo Frontend",
+      "url": "https://es.react.dev/",
+      "startDate": "2021-08-05",
+      "endDate": "2024-10-18",
+      "summary": "Desarrollo de interfaces de usuario para aplicaciones web implementando componentes de React que mejoren UX y UI.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Departamento de Química - UDENAR",
-      "position": "Auxiliar administrativo Departamento de Química",
-      "url": "https://quimica.udenar.edu.co/",
-      "startDate": "2014-08-01",
+      "name": "JavaScript",
+      "position": "Desarrollo web",
+      "url": "https://developer.mozilla.org/es/docs/Web/JavaScript",
+      "startDate": "2022-05-01",
+      "endDate": "2024-02-13",
+      "summary": "Desarrollo web con JavaScript, Node.js, HTML, CSS y React.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Despliegue de sitios web",
+      "position": "Desarrollo Frontend",
+      "url": "https://vercel.com/",
+      "startDate": "2023-02-13",
       "endDate": "2023-10-03",
-      "summary": "Recepción, clasificación y control de correspondencia,redacción de actos administrativos, preparación de auditorias, apoyo procesos de autoevaluación, inducciones estudiantes nuevo ingreso, actualización página web, cargue de información a plataformas, atención al público",
+      "summary": "Despliegue de sitios web con Vercel.",   
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Universidad de Nariño",
-      "position": "Asistente Vicerrectoría Académica",
-      "startDate": "2023-10-03",
-      "endDate": "",
-      "summary": "",
+      "name": "Herramientas de compilación",
+      "position": "Desarrollo Frontend",
+      "url": "https://es.vitejs.dev/",
+      "startDate": "2023-02-13",
+      "endDate": "2024-10-03",
+      "summary": "He utilizado herramientas de compilación con Vite, Next.js, Node.js, Astro entre otras.",
       "highlights": [
         "Started the company"
       ]
@@ -71,15 +83,17 @@
   ],
   "education": [
     {
-      "institution": "Corporación Universitaria Autónoma de Nariño",
+      "institution": "Universidad de Nariño",
       "url": "https://www.uo/index.html",
-      "area": "Ingeniería Informática",
-      "studyType": "Posgrado",
-      "startDate": "2020-01-01",
-      "endDate": "2024-18-10",
+      "area": "Tecnóloga en Computación",
+      "studyType": "Technique",
+      "startDate": "2007-08-01",
+      "endDate": "2013-07-01",
       "score": "",
       "courses": [
-        ""
+        "Formación de auditores internos en SGC NTC ISO 9001:2015. ICONTEC 40 Horas.",
+        "Indicadores de gestión en el SGC ICONTEC 16 horas.",
+        "Control de producto y servicio no conforme ICONTEC 8 horas."
       ]
     }
   ],
