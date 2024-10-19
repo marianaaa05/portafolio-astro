@@ -68,60 +68,6 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "SCOUTS.ORG",
-      "position": "Volunteer",
-      "url": "",
-      "startDate": "2020-02-01",
-      "endDate": "2021-01-30",
-      "summary": "Jefe de Grupo 12  Don Bosco",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Universidad de Nariño",
-      "url": "https://www.uo/index.html",
-      "area": "Tecnóloga en Computación",
-      "studyType": "Technique",
-      "startDate": "2007-08-01",
-      "endDate": "2013-07-01",
-      "score": "",
-      "courses": [
-        "Formación de auditores internos en SGC NTC ISO 9001:2015. ICONTEC 40 Horas.",
-        "Indicadores de gestión en el SGC ICONTEC 16 horas.",
-        "Control de producto y servicio no conforme ICONTEC 8 horas."
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://com"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "httpcom",
-      "summary": "Description…"
-    }
-  ],
   "skills": [
     {
       "name": "React",
@@ -181,32 +127,6 @@
       ]
     }
     
-  ],
-  "languages": [
-    {
-      "language": "Spanish",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Advanced"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Traveling",
-      "keywords": [
-        "Beach",
-        "Forest",
-        "Archeology"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jesús Cabrera",
-      "reference": "Director Departamento de Química"
-    }
   ],
   "projects": [
     {
