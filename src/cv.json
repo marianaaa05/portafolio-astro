@@ -124,20 +124,62 @@
   ],
   "skills": [
     {
-      "name": "Auditora interna",
+      "name": "React",
       "level": "Master",
       "keywords": [
-        "calidad",
-        "auditoria"
+        "React",
+        "Desarrollo Frontend"
       ]
     },
     {
-      "name": "Sistemas de gestión de calidad",
+      "name": "JavaScript",
       "level": "Master",
       "keywords": [
-        "SIGC"
+        "Desarrollo Frontend"
       ]
-    } 
+    },
+    {
+      "name": "Astro",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Frontend"
+      ]
+    },
+    {
+      "name": "UX",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Frontend"
+      ]
+    },
+    {
+      "name": "UI",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Frontend"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Frontend"
+      ]
+    },
+    {
+      "name": "Vite",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Frontend"
+      ]
+    }
     
   ],
   "languages": [
@@ -168,66 +210,55 @@
   ],
   "projects": [
     {
-      "name": "codes",
+      "name": "Tienda",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Tienda de comercio electrónico",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Tienda",
+        "JavaScript & TypeScript",
+        "Inventario",
+        "Ventas"
       ],
-      "url": "https:odes"
+      "url": "https://github.com/marianaaa05/tienda"
     },
     {
-      "name": "programacion",
+      "name": "Maquillaje Online",
       "isActive": true,
-      "description": "Retos",
+      "description": "Tienda de maquillaje",
       "highlights": [
-        "millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Maquillaje",
+        "JavaScript",
+        "Inventario",
+        "Ventas",
+        "Sesiones"
       ],
-      "url": "demos en linea"
+      "url": "https://github.com/marianaaa05/MaquillajeOnline"
     },
     {
-      "name": "proyetosdesarrollo",
+      "name": "Portafolio",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Portafolio v1 con Vite",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "React",
+        "Experiencia",
+        "Educacion",
+        "Proyectos",
+        "Skills"
       ],
       "url": "demos en lineas://proyetosdesarrollo.dev"
     },
     {
-      "name": "link",
+      "name": "App de heroes",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Busca heroes desde una API",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "React",
+        "JavaScript",
+        "API",
+        "Heroes"
       ],
       "url": "demos en lineas://codi.link",
       "github": "demos en lineas:/nk"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500"
-      ],
-      "url": "demos en lineas://pruebastecnicas.com",
-      "github": "www."
-    },
-    {
-      "name": "ponencia",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "demos en lineas://paginaweb.com"
     }
   ]
 }

@@ -3,7 +3,7 @@ import Section from "@/components/Section.astro";
 import { work } from "@/cv.json";
 ---
 
-<Section title="Experience">
+<Section title="Experiencia">
   <ul>
     {
       work.map(
@@ -40,10 +40,14 @@ import { work } from "@/cv.json";
     display: flex;
     flex-direction: column;
     gap: 32px;
+    background-color: #94e4c4;
+    border-radius: 12px;
+    padding: 16px;
+    border: 1px solid #000;
   }
 
   article h3 {
-    color: #111;
+    color: #195bb3;
   }
 
   article h4 {
@@ -55,7 +59,7 @@ import { work } from "@/cv.json";
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    margin-bottom: 4px;
+    margin-bottom: 8px;
   }
 
   time{
